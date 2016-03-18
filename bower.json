@@ -1,18 +1,18 @@
 {
   "name": "dashboard-layout",
-  "version": "1.0.7",
+  "version": "0.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Barrett K. Harber <barrett.harber@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Provides a layout shared style for dashboard elements.",
   "keywords": [
     "web-component",
     "polymer",
-    "seed"
+    "dashboard"
   ],
   "main": "dashboard-layout.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/DashboardElements/dashboard-layout",
   "ignore": [
     "/.*",
     "/test/"
