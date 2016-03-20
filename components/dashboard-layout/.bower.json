@@ -1,0 +1,36 @@
+{
+  "name": "dashboard-layout",
+  "authors": [
+    "Barrett K. Harber <barrett.harber@gmail.com>"
+  ],
+  "description": "Provides a layout shared style for dashboard elements.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "dashboard"
+  ],
+  "main": "dashboard-layout.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/DashboardElements/dashboard-layout",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "a2358e45a4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a2358e45a4c64ccbbe71312ebd11d950dd9ee7e5"
+  },
+  "_source": "git@github.com:DashboardElements/dashboard-layout.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:DashboardElements/dashboard-layout",
+  "_direct": true
+}
